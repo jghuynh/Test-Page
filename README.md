@@ -13,6 +13,10 @@ Here is an example plotly graph.
 
 ![plotly graph](plotly_basic_line_chart.html)
 
+<iframe width="900" height="800" 
+frameborder="0" scrolling="no" 
+src="plotly_basic_line_chart.html"></iframe>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jghuynh/Test-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
