@@ -13,6 +13,8 @@ Here is an example plotly graph.
 
 ![plotly graph](plotly_basic_line_chart.html)
 
+Let's try using iframe:
+
 <iframe width="900" height="800" 
 frameborder="0" scrolling="no" 
 src="plotly_basic_line_chart.html"></iframe>
