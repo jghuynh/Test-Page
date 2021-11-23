@@ -1,3 +1,11 @@
+## Welcome To Justine Huynh's Website!
+
+### Introduction
+
+Hello! I'm Justine! My gender pronouns are she/her/hers. I'm currently a 2nd-year grad student in Georgetown University.
+
+I love Pokemon, music, drums, piano, singing.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jghuynh/Test-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
