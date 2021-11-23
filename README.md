@@ -7,6 +7,12 @@ Hello! I'm Justine! My gender pronouns are she/her/hers. I'm currently a 2nd-yea
 
 I love Pokemon, music, drums, piano, singing.
 
+### Example Plotly Graph
+
+Here is an example plotly graph.
+
+![plotly graph](plotly_basic_line_chart.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jghuynh/Test-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
